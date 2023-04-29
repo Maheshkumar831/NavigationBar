@@ -1,0 +1,30 @@
+.topnav a{
+    float:left;
+    text-decoration: none;
+    color:black;
+    padding: 14px 16px;
+    font-size:15px;
+    
+}
+.topright{
+    float:right;
+    
+}
+.hello{
+    font-size: 20px;
+    
+}
+.right{
+    margin-left:500px;
+}
+.brown{
+    color:beige;
+}
+.move{
+    margin-left: 150px;
+}
+a{
+    color:black;
+    text-decoration: none;
+
+}
